@@ -46,7 +46,7 @@ class equilateral extends triangle{
 	         
 	
 }
-	
+	//good example
 
 class right extends triangle{
 		float perimeter(int a,int b,int c)
